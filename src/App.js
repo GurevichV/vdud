@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <main>
-        <img src='/assets/images/banner.jpg' alt="banner"/>
+        <img src='/vdud/assets/images/banner.jpg' alt="banner"/>
         <div>
           <h1>Рекомендации от гостей Дудя</h1>
           <h2>
