@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vdud/static/css/main.3c937e88.css",
-    "main.js": "/vdud/static/js/main.69257ac3.js",
+    "main.js": "/vdud/static/js/main.0128ce5a.js",
     "index.html": "/vdud/index.html",
     "main.3c937e88.css.map": "/vdud/static/css/main.3c937e88.css.map",
-    "main.69257ac3.js.map": "/vdud/static/js/main.69257ac3.js.map"
+    "main.0128ce5a.js.map": "/vdud/static/js/main.0128ce5a.js.map"
   },
   "entrypoints": [
     "static/css/main.3c937e88.css",
-    "static/js/main.69257ac3.js"
+    "static/js/main.0128ce5a.js"
   ]
 }
